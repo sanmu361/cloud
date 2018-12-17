@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mapReduce" />
         <module name="weather" />
         <module name="wordCount" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud" target="1.8" />
+      <module name="mapReduce" target="1.8" />
       <module name="weather" target="1.7" />
       <module name="wordCount" target="1.7" />
     </bytecodeTargetLevel>

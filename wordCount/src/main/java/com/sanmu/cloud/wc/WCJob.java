@@ -30,9 +30,9 @@ public class WCJob {
         job.setReducerClass(WCReduce.class);
         job.setCombinerClass(WCReduce.class);
 
-        FileInputFormat.addInputPath(job,new Path("/sanmu/data/input/wc"));
+        FileInputFormat.addInputPath(job, new Path("D:\\资源\\mapreducer\\mapreducer\\data\\wc.txt"));
 
-        Path outPath = new Path("/sanmu/data/output");
+        Path outPath =new Path("D:\\资源\\mapreducer\\mapreducer\\data\\out.txt");
 
         FileSystem fs = FileSystem.get(conf);
         if(fs.exists(outPath)){
@@ -44,6 +44,5 @@ public class WCJob {
         if(flag){
             System.out.println("job success !");
         }
-
     }
 }

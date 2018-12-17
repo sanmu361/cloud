@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapReduce/mapReduce.iml" filepath="$PROJECT_DIR$/mapReduce/mapReduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/weather/weather.iml" filepath="$PROJECT_DIR$/weather/weather.iml" />
       <module fileurl="file://$PROJECT_DIR$/wordCount/wordCount.iml" filepath="$PROJECT_DIR$/wordCount/wordCount.iml" />
     </modules>

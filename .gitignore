@@ -1,0 +1,57 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea/libraries/Maven__ant_ant_1_6_5.xml
+.idea/libraries/Maven__com_sun_jersey_jersey_core_1_8.xml
+.idea/libraries/Maven__com_sun_jersey_jersey_json_1_8.xml
+.idea/libraries/Maven__com_sun_jersey_jersey_server_1_8.xml
+.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml
+.idea/libraries/Maven__commons_io_commons_io_2_1.xml
+.idea/libraries/Maven__commons_net_commons_net_1_4_1.xml
+.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml
+.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_6_1.xml
+.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml
+.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_2_1.xml
+.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml
+.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml
+.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml
+.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_7_1.xml
+.idea/libraries/Maven__org_eclipse_jdt_core_3_1_1.xml
+.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml
+.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml
+.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml
+.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml
+.idea/libraries/Maven__oro_oro_2_0_8.xml
+.idea/libraries/Maven__stax_stax_api_1_0_1.xml
+.idea/libraries/Maven__tomcat_jasper_compiler_5_5_12.xml
+.idea/libraries/Maven__tomcat_jasper_runtime_5_5_12.xml
+.idea/workspace.xml
+mapReduce/src/
+mapReduce/target/generated-sources/
+mapReduce/target/generated-test-sources/
+weather/src/
+wordCount/src/main/java/com/sanmu/cloud/reommendingFriends/
+wordCount/target/
